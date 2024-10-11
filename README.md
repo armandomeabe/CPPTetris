@@ -17,7 +17,7 @@ programación en C++.
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](https://example.com/screenshot.png)
+![Captura de Pantalla](/img/Screenshot001.png)
 
 ## Instalación
 Happy path: Clonar el repositorio y compilar desde Visual Studio.
